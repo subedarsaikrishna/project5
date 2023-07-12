@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.container
+{
+    background-color: aquamarine;
+    color: white;
+}
+h1{
+    font-size: 3en;
+}
+button{
+    height: 60px;
+    width: 60px;
+    background-color: brown;
+    margin: 30px;
+    font-size: 3en;
+}
+image{
+    height: 60px;
+    width: 60px;
+}
+button{
+    curser:pointer;
+    background-color: azure;
+    color: brown;
+}
